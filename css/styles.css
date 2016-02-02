@@ -1,0 +1,1085 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Web Design Page */
+
+
+.push_down {
+	margin-top:75px;
+	
+}
+
+body {
+	background-color:#fff;
+	
+}
+
+ /* CUSTOMIZE THE CAROUSEL
+    -------------------------------------------------- */
+.carousel,.item,.active{height:100%;}
+.carousel-inner{height:100%;}
+.fill {
+	width:100%;
+	height:750px;
+	background-position:center;
+	background-size:cover;
+	
+	}
+
+.text_white a,
+.text_white h1,
+.text_white h2,
+.text_white h3,
+.text_white h4,
+.text_white h5,
+.text_white h6,
+.text_white p,
+.text_white ul,
+.text_white li{
+	color:white;
+}
+
+.color_yellow1 {
+	
+	background-color: #FFD54C;
+}
+
+.color_yellow2 {
+	
+	background-color: #FFDC76;
+}
+
+.color_yellow3 {
+	
+	background-color: #FFE18B;
+	
+}
+
+.color_yellow4 {
+	
+	background-color: #FFE8A5;
+	
+}
+
+.color_yellow5 {
+	
+	background-color: #FFEBB9;
+	
+}
+
+
+.color_blue1 {
+	
+	background-color: #B9E5FA;
+}
+
+.color_blue2 {
+	
+	background-color: #96DAF8;
+}
+
+.color_blue3 {
+	
+	background-color: #69CEF5;
+	
+}
+
+.color_blue4 {
+	
+	background-color: #00C1F3;
+	
+}
+
+.color_blue5 {
+	
+	background-color: #00B7F1;
+	
+}
+
+.color_green1{
+	
+	background-color: rgba(1,180,141,1);
+	
+}
+
+.color_green2{
+	
+	background-color: rgba(50,188,153,1);
+	
+}
+
+.color_green3{
+	
+	background-color: rgba(106,198,169,1);
+	
+}
+
+.color_green4{
+	
+	background-color: rgba(143,210,188,1);
+	
+}
+
+.color_green5{
+	
+	background-color: rgba(176,221,203,1);
+	
+}
+
+.color_green6{
+	
+	background-color: rgba(0,180,138,1);
+	
+}
+	
+.color_red1 { 
+	
+	background-color: rgba(245,58,86,1);
+}
+
+.color_red2 { 
+	
+	background-color: rgba(245,84,99,1);
+}
+
+.color_red3 { 
+	
+	background-color: rgba(247,108,112,1);
+}
+
+.color_red4 { 
+	
+	background-color: rgba(249,128,128,1);
+}
+
+.color_red5 { 
+	
+	background-color: rgba(249,143,140,1);
+}
+
+.color_teal {
+	
+	background-color: rgba(255,0,151,1);
+	
+}
+
+.color_purple {
+	
+	background-color: rgba(162,0,255,1);
+	
+}
+
+.color_magenta {
+	
+	background-color: rgba(255,0,151,1);
+	
+}
+
+.color_lime {
+	
+	background-color: rgba(140,191,38,1);
+	
+}
+
+.color_brown {
+	
+	background-color: rgba(160,80,0,1);
+	
+}
+
+.color_pink {
+	
+	background-color: rgba(230,113,184,1);
+	
+}
+
+.color_orange {
+	
+	background-color: rgba(240,150,9,1);
+	
+}
+
+.color_grey {
+	
+	background-color: rgba(204,204,204,1);	
+}
+
+.color_tomato {
+	
+	background-color: tomato;	
+}
+
+.color_asbestos {
+	
+	background-color: #7F8C8D;	
+}
+
+
+.color_concrete {
+	
+	background-color: #95A5A6;	
+}
+
+
+.color_asphalt {
+	
+	background-color: #34495E
+;	
+}
+
+.color_midnight {
+	
+	background-color: #2C3E50;	
+}
+
+.color_wisteria {
+	
+	background-color: #8E44AD;	
+}
+
+
+
+/*Well Section Structure*/
+
+.section_header {
+	height: 150px;
+	
+}
+
+.section1_box{
+	height: 700px;	
+}
+
+.section1_content{
+	height:220px;
+		
+}
+
+.section1_img{
+	height: 250px;	
+}
+
+.section1_btn{
+	padding-top:10px;
+	height: 80px;	
+}
+
+
+
+.square_flat {
+ -webkit-border-radius: 0px !important;
+     -moz-border-radius: 0px !important;
+          border-radius: 0px !important;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);	
+}
+
+.menu {
+	
+	font-size:16px;
+	font-weight:300;
+	color: #000;
+	line-height: 9px;
+	padding: 0px;
+	margin: 0px;
+	
+}
+
+.px {
+	margin-right: 5px !important;
+}
+.add_border {
+	border-left: solid;
+	border-color: #CCC;
+	
+}
+
+
+.box-fixed {
+  padding: 20px;
+
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 30px;
+  color: inherit;
+  background-color: #eeeeee;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+}
+
+.box-fixed h1 {
+
+  font-size: 60px;
+  line-height: 1;
+  letter-spacing: -1px;
+  color: inherit;
+}
+
+.box-fixed li {
+  line-height: 30px;
+}
+
+
+
+/* Carosel Custom Class */
+
+.btn-wide {
+	width: 350px;
+}
+
+
+.btn-super-wide {
+	width: 80%;
+}
+
+.promo h1{
+	line-height: .9em;	
+}
+
+.promo img,
+.promo h1 {
+	margin-top:25px;
+}
+
+
+.promo h4 {
+	margin-bottom: 50px;
+	
+}
+
+.cta_promo {
+	position: absolute;
+	left: 50%;
+	width: 900px;
+	top: 600px;
+	margin-left:-450px;
+}
+
+.cta_promo a{
+	margin-left:40px;
+	width:150px;
+	padding-top:60px;
+	padding-bottom:80px;
+	font-size: 2.6em;
+	font-weight:700;
+	text-transform:uppercase;
+		
+}
+/* Custom CSS for added classes  */
+
+.dark_bg {
+	background-color:#333;	
+}
+
+h1#brand {
+ 	width: 152px; 
+  	height: 40px;
+  	background: url(../img/img_logo_about.png);
+ 	text-indent: -9999px;
+}
+
+h1#brand_light {
+ 	width: 152px; 
+  	height: 40px;
+  	background: url(../img/logo.gif);
+ 	text-indent: -9999px;
+}
+
+.data {
+	color:#979797;
+	margin: 10px;
+	line-height: 120%;
+	
+}
+
+.data li{
+	color:#979797;
+	margin: 10px;
+	font-size:18px;
+	line-height: .8em;
+	list-style:none;
+}
+  
+  
+
+
+h2.center {
+	text-align:center;
+	
+}
+
+/* Custom CSS for Prices  */
+
+
+.price {	
+	
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+.price h1 {
+    font-size: 50px;
+    color:white;
+ 
+}
+
+.superscript {
+	font-size:25px; 
+	vertical-align:top;
+	padding-right: 5px;
+
+}
+
+.price_footer p {
+		height:40px;
+		padding-top: 10px;
+		padding-bottom:10px;
+		font-size: 1.125em;
+		line-height:1.4em !important;
+
+}
+
+	
+}
+
+.extra_space {
+
+	margin-top: 20px;	
+}
+
+
+
+/* Custom CSS for Products  */
+
+.hr_mod { border:1.5px solid #ccc; margin-right: 30px; margin-left: 30px;" 
+}
+
+
+
+.product_header {
+	height: auto;
+	
+}
+.product_header p {
+	padding-left: 30px;
+	padding-right: 30px;
+	
+}
+.product_footer {
+	margin-bottom: 50px;
+	padding: 20px;
+}
+
+.break-word {
+  word-wrap: break-word;
+}
+
+.product {
+	margin-bottom:20px;
+	height:auto;
+	
+}
+
+.center {
+	margin:0 auto;
+ 	float:none;
+}
+
+div.row-fluid [class*="span"] .center-in-span { 
+	float: none; 
+	/*margin: 0 auto; */
+	text-align: center; 
+	display: block; 
+	/*width:auto; */
+	height:auto;
+
+}
+
+
+/* icon image zone ----------- */
+
+/* Set 2 ----------- */
+
+.icon_survey {
+	display:block;
+	background:transparent url('/css/sprites/survey.png') center  no-repeat;
+ 	width: 64px;
+ 	height:48px;
+ 
+margin-left: auto;
+margin-right: auto;
+}
+
+.icon_survey a{
+	display:block;
+	height:64px;
+
+}
+
+.icon_survey:hover {
+   background-image: url('/css/sprites/survey_hover.png');
+}
+
+.icon_games {
+	display:block;
+	background:transparent url('/css/sprites/games.png') center  no-repeat;
+ 	width: 56px;
+ 	height:62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.icon_games a{
+	display:block;
+	height:62px;
+}
+
+.icon_games:hover {
+   background-image: url('/css/sprites/games_hover.png');
+}
+
+.icon_create {
+	display:block;
+	background:transparent url('/css/sprites/create.png') center  no-repeat;
+ 	width: 64px;
+ 	height:59px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.icon_create a{
+	display:block;
+	height:59px;
+}
+
+.icon_create:hover {
+   background-image: url('/css/sprites/create_hover.png');
+}
+
+.icon_offer{
+	display:block;
+	background:transparent url('/css/sprites/offer.png') center  no-repeat;
+ 	width: 61px;
+ 	height:60px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.icon_offer a{
+	display:block;
+	height:60px;
+}
+
+.icon_offer:hover {
+   background-image: url('/css/sprites/offer_hover.png');
+}
+
+.icon_build{
+	display:block;
+	background:transparent url('/css/sprites/build.png') center  no-repeat;
+ 	width: 57px;
+ 	height:57px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.icon_build a{
+	display:block;
+	height:57px;
+}
+
+.icon_build:hover {
+   background-image: url('/css/sprites/build_hover.png');
+}
+/* Set 1 ----------- */
+
+.icon_pin{
+	display:block;
+	background:transparent url('/css/sprites/pin.png') center  no-repeat;
+ 	width: 57px;
+ 	height:57px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.icon_pin a{
+	display:block;
+	height:57px;
+}
+
+.icon_pin:hover {
+   background-image: url('/css/sprites/pin_hover.png');
+}
+
+.icon_search{
+	display:block;
+	background:transparent url('/css/sprites/search.png') center  no-repeat;
+ 	width: 56px;
+ 	height:56px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.icon_search a{
+	display:block;
+	height:56px;
+}
+.icon_email:hover {
+	background-image: url('/css/sprites/email_hover.png');
+}
+
+.icon_email{
+	display:block;
+	background:transparent url('/sprites/email.png') center  no-repeat;
+ 	width: 64px;
+ 	height:57px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.icon_email a{
+	display:block;
+	height:56px;
+}
+
+.icon_search:hover {
+   background-image: url('/css/sprites/search_hover.png');
+}
+
+.icon_social{
+	display:block;
+	background:transparent url('/css/sprites/social.png') center  no-repeat;
+ 	width: 64px;
+ 	height: 57px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.icon_social a{
+	display:block;
+	height:57px;
+}
+
+.icon_social:hover {
+   background-image: url('/css/sprites/social_hover.png');
+}
+
+.icon_design{
+	display:block;
+	background:transparent url('/css/sprites/design.png') center  no-repeat;
+ 	width: 64px;
+ 	height: 57px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.icon_design a{
+	display:block;
+	height:57px;
+}
+
+.icon_design:hover {
+   background-image: url('/css/sprites/design_hover.png');
+}
+
+.icon_window{
+	display:block;
+	background:transparent url('/css/sprites/window.png') center  no-repeat;
+ 	width: 64px;
+ 	height: 57px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.icon_window a{
+	display:block;
+	height:57px;
+}
+
+.icon_window:hover {
+   background-image: url('/css/sprites/window_hover.png');
+}
+
+.blue{
+	display:block;
+	background:transparent url('/css/sprites/blue.png') center no-repeat;
+	width: 19px;
+ 	height: 19px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.green{
+	display:block;
+	background:transparent url('/css/sprites/green.png') center no-repeat;
+	width: 19px;
+ 	height: 19px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.red{
+	display:block;
+	background:transparent url('/css/sprites/red.png') center no-repeat;
+	width: 19px;
+ 	height: 19px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (max-width : 320px) {
+	
+.standards h2 {
+	font-size: 2em;
+	
+}
+
+.hero-unit h2{
+	font-size: 2em;
+	
+}
+/* Styles */
+.product_header {
+	height: auto;
+	
+}
+.promo h1 {
+	font-size: 3.8em;
+	line-height: .8em;
+	
+}
+
+.hero-unit h2{
+	font-size: 2em;
+	
+}
+
+.btn-wide {
+	width: 175px !important;
+}
+
+.btn-super-wide {
+	width: 80% !important;
+}
+
+.product {
+	margin-bottom:20px;
+	height:auto;
+	
+}
+
+.phone_extra_space {
+
+	margin-top: 20px !important;	
+}
+
+.section_header {
+	height: auto;
+	
+}
+
+.section1_box{
+	height: auto;	
+}
+
+.section1_content{
+	height:auto;
+		
+}
+
+.section1_img{
+	height: auto;	
+}
+
+.section1_btn{
+	padding-top:none;
+	height: auto;	
+}
+
+.fill {
+	width:100%;
+	height:1000px;
+	background-position:center;
+	background-size:cover;
+	
+	}
+
+.carousel-inner h1,
+.carousel-inner h2,
+.carousel-inner h3,
+.carousel-inner h4,
+.carousel-inner h5,
+.carousel-inner h6,
+.carousel-inner p,
+.carousel-inner ul {
+	padding-left:20px;
+	padding-right:20px;
+	
+	}
+
+}
+
+@media (max-width: 480px) {
+.btn-wide {
+	width: 250px;
+}
+
+.btn-super-wide {
+	width: 80%;
+}
+
+
+.hero-unit h2{
+	font-size: 2em;
+	
+}
+
+.standards h2 {
+	font-size: 2em;
+	
+}
+
+.section1_header {
+	height: auto !important;	
+}
+
+.section1_content {
+	height: auto !important;
+	
+}
+	
+	.phone_extra_space {
+
+	margin-top: 20px !important;	
+}
+	
+	.phone_small_h1 {
+		
+		font-size: 48px !important;
+		
+	}
+	
+.carousel-inner h1,
+.carousel-inner h2,
+.carousel-inner h3,
+.carousel-inner h4,
+.carousel-inner h5,
+.carousel-inner h6,
+.carousel-inner p,
+.carousel-inner ul {
+	padding-left:20px;
+	padding-right:20px;
+	
+	}
+	
+.fill {
+	width:100%;
+	height:900px;
+	background-position:center;
+	background-size:cover;
+	
+	}
+
+	
+}
+	
+@media (min-width: 480px) and (max-width: 767px) {
+	
+.section_header {
+	height: auto !important;
+}
+
+.standards h2 {
+	font-size: 2em;
+	
+}
+
+/*Well Section Structure*/
+
+
+.section1_box{
+	height: auto;	
+}
+
+.section1_content{
+	height:auto;
+		
+}
+
+.section1_img{
+	height: auto;	
+}
+
+.section1_btn{
+	padding-top:10px;
+	height: 80px;	
+}
+
+
+	
+.phone_extra_space {
+	margin-top: 20px !important;	
+}
+	
+.phone_small_h1 {
+	font-size:58px !important;
+}
+
+
+.carousel-inner h1,
+.carousel-inner h2,
+.carousel-inner h3,
+.carousel-inner h4,
+.carousel-inner h5,
+.carousel-inner h6,
+.carousel-inner p,
+.carousel-inner ul {
+	padding-left:60px;
+	padding-right:60px;
+	
+	}
+	
+.fill {
+	width:100%;
+	height:800px;
+	background-position:center;
+	background-size:cover;
+	
+	}
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 979px) {
+	
+.phone_small_h1 {
+	font-size:58px !important;	
+}
+
+.standards h2 {
+	font-size: 2em;
+	
+}
+	
+.section_header {
+	font-size:40px !important;
+	height: 150px !important;
+}
+
+/*Well Section Structure*/
+
+.section1_box{
+	height: 900px;	
+}
+
+.section1_content{
+	height:400px;
+		
+}
+
+.section1_img{
+	height: 250px;	
+}
+
+.section1_btn{
+	padding-top:10px;
+	height: 80px;	
+}
+
+
+.fill {
+	width:100%;
+	height:500px;
+	background-position:center;
+	background-size:cover;
+	
+	}
+	
+.price_title h2 {
+	font-size:24px;
+
+}
+
+.price_title p {
+	font-size: 14px;
+	
+}
+
+.price_footer p {
+	font-size: 1em;
+	line-height:1.1em !important;
+}
+
+.promo h1 {
+	font-size: 3em;
+}
+
+
+.promo h4 {
+	font-size: 1.5em;
+	
+}
+
+.btn-wide {
+	width: 200px;
+}
+
+.btn-super-wide {
+	width: 80%;
+}
+
+footer h2 {
+	font-size: 2.8em;
+	height: 150px;
+}
+
+
+.footer_section {
+	height: 120px;
+
+}
+		
+}
+
+@media (min-width: 980px) and (max-width: 1199px) {
+	
+.section_header {
+	height: auto !important;
+}
+
+.standards h2 {
+	font-size: 2em;
+	
+}
+
+.section1_content {
+	height: 260px !important;
+}
+
+.price_footer p {
+	font-size: 1em;
+	line-height:1.4em !important;
+
+}
+
+footer h2 {
+	font-size: 2.8em;
+	height: 100px;
+}
+
+
+.footer_section {
+	height: 120px;
+
+}
+
+}
